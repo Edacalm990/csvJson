@@ -1,0 +1,172 @@
+[ {
+  "nombreEmpleado" : "Cárdenas Díaz, Laura",
+  "puesto" : "Educación Física P.E.S.",
+  "fechaInicio" : [ 2010, 9, 1 ],
+  "fechaFin" : null,
+  "telefono" : "617704193",
+  "evaluador" : false,
+  "coordinador" : true,
+  "dni_Pasaporte" : "26800485B"
+}, {
+  "nombreEmpleado" : "Díaz Puerto, Francisco Javier",
+  "puesto" : "Filosofía P.E.S.",
+  "fechaInicio" : [ 2012, 9, 1 ],
+  "fechaFin" : null,
+  "telefono" : "655526696",
+  "evaluador" : false,
+  "coordinador" : true,
+  "dni_Pasaporte" : "50602307F"
+}, {
+  "nombreEmpleado" : "Domínguez Tamayo, Julen",
+  "puesto" : "Inglés P.E.S.",
+  "fechaInicio" : [ 2012, 9, 1 ],
+  "fechaFin" : null,
+  "telefono" : "951249955",
+  "evaluador" : false,
+  "coordinador" : true,
+  "dni_Pasaporte" : "03888739Z"
+}, {
+  "nombreEmpleado" : "Fagundo García, Emilia",
+  "puesto" : "Tecnología P.E.S.",
+  "fechaInicio" : [ 2012, 9, 1 ],
+  "fechaFin" : null,
+  "telefono" : "689100483",
+  "evaluador" : false,
+  "coordinador" : true,
+  "dni_Pasaporte" : "12731426Y"
+}, {
+  "nombreEmpleado" : "Fernández Luzón, Rodrigo",
+  "puesto" : "Informática P.E.S.",
+  "fechaInicio" : [ 2010, 9, 1 ],
+  "fechaFin" : null,
+  "telefono" : "717121280",
+  "evaluador" : false,
+  "coordinador" : true,
+  "dni_Pasaporte" : "74663933E"
+}, {
+  "nombreEmpleado" : "Fortea Molina, Pastora",
+  "puesto" : "Francés P.E.S.",
+  "fechaInicio" : [ 2009, 9, 1 ],
+  "fechaFin" : null,
+  "telefono" : "656491528",
+  "evaluador" : false,
+  "coordinador" : true,
+  "dni_Pasaporte" : "77455412Z"
+}, {
+  "nombreEmpleado" : "Garrocho González, Cristina",
+  "puesto" : "Matemáticas P.E.S.",
+  "fechaInicio" : [ 2011, 9, 1 ],
+  "fechaFin" : null,
+  "telefono" : "",
+  "evaluador" : false,
+  "coordinador" : false,
+  "dni_Pasaporte" : "33397284L"
+}, {
+  "nombreEmpleado" : "Giráldez Cuevas, María",
+  "puesto" : "Física y Química P.E.S.",
+  "fechaInicio" : [ 2012, 9, 1 ],
+  "fechaFin" : null,
+  "telefono" : "636443041",
+  "evaluador" : false,
+  "coordinador" : true,
+  "dni_Pasaporte" : "07986998H"
+}, {
+  "nombreEmpleado" : "González Astilleros, Verónica",
+  "puesto" : "Informática P.E.S.",
+  "fechaInicio" : [ 2009, 6, 22 ],
+  "fechaFin" : [ 2021, 1, 24 ],
+  "telefono" : "952795965",
+  "evaluador" : false,
+  "coordinador" : true,
+  "dni_Pasaporte" : "25565241M"
+}, {
+  "nombreEmpleado" : "Hernández Lozano, Remedios",
+  "puesto" : "Inglés P.E.S.",
+  "fechaInicio" : [ 2008, 9, 1 ],
+  "fechaFin" : null,
+  "telefono" : "952807303",
+  "evaluador" : false,
+  "coordinador" : true,
+  "dni_Pasaporte" : "26485849S"
+}, {
+  "nombreEmpleado" : "Lirola Oliva, Ana",
+  "puesto" : "Lengua Castellana y Literatura P.E.S.",
+  "fechaInicio" : [ 2008, 9, 1 ],
+  "fechaFin" : null,
+  "telefono" : "665475984",
+  "evaluador" : false,
+  "coordinador" : true,
+  "dni_Pasaporte" : "74868422H"
+}, {
+  "nombreEmpleado" : "Macías Laynez, Magdalena",
+  "puesto" : "Matemáticas P.E.S.",
+  "fechaInicio" : [ 2010, 9, 1 ],
+  "fechaFin" : null,
+  "telefono" : "951965362",
+  "evaluador" : false,
+  "coordinador" : true,
+  "dni_Pasaporte" : "25583669X"
+}, {
+  "nombreEmpleado" : "Márquez Pineda, Jacqueline Cristina",
+  "puesto" : "Orientación Educativa P.E.S.",
+  "fechaInicio" : [ 2008, 9, 1 ],
+  "fechaFin" : null,
+  "telefono" : "952340738",
+  "evaluador" : false,
+  "coordinador" : true,
+  "dni_Pasaporte" : "74867075M"
+}, {
+  "nombreEmpleado" : "Martínez Fernández, Inés",
+  "puesto" : "Inglés P.E.S.",
+  "fechaInicio" : [ 2009, 9, 1 ],
+  "fechaFin" : null,
+  "telefono" : "952805153",
+  "evaluador" : false,
+  "coordinador" : true,
+  "dni_Pasaporte" : "53682231R"
+}, {
+  "nombreEmpleado" : "Núñez Murillo, Margarita",
+  "puesto" : "Sistemas y Aplic. Informáticos P.T.F.P.",
+  "fechaInicio" : [ 2012, 9, 1 ],
+  "fechaFin" : null,
+  "telefono" : "699987772",
+  "evaluador" : false,
+  "coordinador" : true,
+  "dni_Pasaporte" : "75111043N"
+}, {
+  "nombreEmpleado" : "Rodríguez Montero, Rocío",
+  "puesto" : "Lengua Castellana y Literatura P.E.S.",
+  "fechaInicio" : [ 2010, 9, 1 ],
+  "fechaFin" : null,
+  "telefono" : "952890188",
+  "evaluador" : false,
+  "coordinador" : true,
+  "dni_Pasaporte" : "74816539T"
+}, {
+  "nombreEmpleado" : "Serena León, Ana María",
+  "puesto" : "Educación Física P.E.S.",
+  "fechaInicio" : [ 2010, 9, 1 ],
+  "fechaFin" : null,
+  "telefono" : "639675154",
+  "evaluador" : false,
+  "coordinador" : true,
+  "dni_Pasaporte" : "26012958G"
+}, {
+  "nombreEmpleado" : "Torres Silva, Antonia",
+  "puesto" : "Sistemas y Aplic. Informáticos P.T.F.P.",
+  "fechaInicio" : [ 2008, 9, 1 ],
+  "fechaFin" : null,
+  "telefono" : "654167765",
+  "evaluador" : false,
+  "coordinador" : true,
+  "dni_Pasaporte" : "08929037T"
+}, {
+  "nombreEmpleado" : "Vidal Morillas, María Nieves",
+  "puesto" : "Física y Química P.E.S.",
+  "fechaInicio" : [ 2012, 9, 1 ],
+  "fechaFin" : null,
+  "telefono" : "605837861",
+  "evaluador" : false,
+  "coordinador" : true,
+  "dni_Pasaporte" : "27347116R"
+} ]
